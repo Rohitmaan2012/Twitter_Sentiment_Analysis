@@ -40,5 +40,3 @@ Please refer to [A Convolutional Neural Network for Modelling Sentences](http://
 2. Dropout
 3. AdaDelta
 
-## Contributors
-Mohit Maan and Harshvardhan dewangan
